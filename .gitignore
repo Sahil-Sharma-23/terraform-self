@@ -1,0 +1,10 @@
+terraform_certified
+lab-1/.terraform
+lab-1/.terraform.lock.hcl
+lab-1/terraform.tfstate
+lab-1/terraform.tfstate.backup
+lab-2/.terraform
+lab-2/.terraform.lock.hcl
+lab-2/terraform.tfstate
+lab-2/terraform.tfstate.backup
+
