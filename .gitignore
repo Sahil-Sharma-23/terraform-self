@@ -29,3 +29,10 @@ lab-6/.terraform.lock.hcl
 lab-6/terraform.tfstate
 lab-6/terraform.tfstate.backup
 
+lab-7/.terraform
+lab-7/.terraform.lock.hcl
+lab-7/terraform.tfstate
+lab-7/terraform.tfstate.backup
+
+
+
