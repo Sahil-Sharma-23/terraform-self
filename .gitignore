@@ -39,4 +39,32 @@ lab-8/.terraform.lock.hcl
 lab-8/terraform.tfstate
 lab-8/terraform.tfstate.backup
 
+lab-9/.terraform
+lab-9/.terraform.lock.hcl
+lab-9/terraform.tfstate
+lab-9/terraform.tfstate.backup
 
+lab-9/az/.terraform
+lab-9/az/.terraform.lock.hcl
+lab-9/az/terraform.tfstate
+lab-9/az/terraform.tfstate.backup
+
+lab-9/caller-identity/.terraform
+lab-9/caller-identity/.terraform.lock.hcl
+lab-9/caller-identity/terraform.tfstate
+lab-9/caller-identity/terraform.tfstate.backup
+
+lab-9/provider/.terraform
+lab-9/provider/.terraform.lock.hcl
+lab-9/provider/terraform.tfstate
+lab-9/provider/terraform.tfstate.backup
+
+lab-9/subnet/.terraform
+lab-9/subnet/.terraform.lock.hcl
+lab-9/subnet/terraform.tfstate
+lab-9/subnet/terraform.tfstate.backup
+
+lab-9/vpc/.terraform
+lab-9/vpc/.terraform.lock.hcl
+lab-9/vpc/terraform.tfstate
+lab-9/vpc/terraform.tfstate.backup
