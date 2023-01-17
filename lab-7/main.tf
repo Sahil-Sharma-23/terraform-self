@@ -23,6 +23,7 @@ resource "aws_security_group" "general" {
 }
 
 # ------------------------------------------------
+# Display the output named 'my_SG_id'
 output "my_SG_id" {
   value = aws_security_group.general.id
 }
