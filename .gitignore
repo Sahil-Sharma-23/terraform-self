@@ -74,3 +74,8 @@ lab-10/.terraform.lock.hcl
 lab-10/terraform.tfstate
 lab-10/terraform.tfstate.backup
 
+lab-11/.terraform
+lab-11/.terraform.lock.hcl
+lab-11/terraform.tfstate
+lab-11/terraform.tfstate.backup
+
